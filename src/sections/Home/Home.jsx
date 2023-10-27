@@ -13,13 +13,13 @@ const Home = () => {
       color: "green-400",
     },
     {
-      icon: <BsCoin className="text-green w-6 h-6" />,
+      icon: <BsCoin className="text-green-800 w-6 h-6" />,
       title: "Open Interest",
       content: "$0",
       color: "blue-400",
     },
     {
-      icon: <FaMoneyBillWave className="text-blue w-6 h-6" />,
+      icon: <FaMoneyBillWave className="text-blue-800 w-6 h-6" />,
       title: "Total Users",
       content: "0",
       color: "red-400",
