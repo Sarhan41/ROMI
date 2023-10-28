@@ -47,32 +47,3 @@ body {
   @apply flex justify-end items-center;
 }
 
-.button {
-  @apply font-semibold text-lg text-white rounded-md bg-gradient-to-r from-[#ff2c55] via-[#ff784e] to-[#ffbc40] px-8 mt-6 hover:from-[#ff7e5f] hover:via-[#ffac5d] hover:to-[#ffd35a];
-}
-
-.bg-g {
-  @apply bg-green-700;
-}
-.bg-b {
-  @apply bg-blue-700;
-}
-.bg-t {
-  @apply bg-teal-700;
-}
-.bg-gr {
-  @apply bg-gray-700;
-}
-
-.g {
-  @apply ring-green-700;
-}
-.b {
-  @apply ring-blue-700;
-}
-.t {
-  @apply ring-teal-700;
-}
-.gr {
-  @apply ring-gray-700;
-}
